@@ -6,4 +6,4 @@ and even impossible. I tried to solve this with c++, but can't use graphis.h lib
 than with 3 compilers.
 And I found the solution with Java Script. 
 My solution isn't Console Application, but it works good)
-Thank You reading. 
+Thank You for reading. 
